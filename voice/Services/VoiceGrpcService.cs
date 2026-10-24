@@ -1,6 +1,6 @@
 using Grpc.Core;
 
-namespace va_voice.Services;
+namespace voice.Services;
 
 public sealed class VoiceGrpcService(ILogger<VoiceGrpcService> logger) : Voice.VoiceBase
 {

@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "va_voice.Services";
+option csharp_namespace = "voice.Services";
 
 package voice;
 

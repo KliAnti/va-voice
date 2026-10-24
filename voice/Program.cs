@@ -1,4 +1,4 @@
-using va_voice.Services;
+using voice.Services;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
